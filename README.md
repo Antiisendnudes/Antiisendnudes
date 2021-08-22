@@ -2,8 +2,7 @@
 
 - 👀 I’m interested in
   - Programming and Developing. Espicially:
-    -C++
-    -Python
+    -C++ and Python
     
 
 - 🌱 I’m currently learning
