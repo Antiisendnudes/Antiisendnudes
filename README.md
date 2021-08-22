@@ -14,8 +14,4 @@
     -Discord
       Antii#0004
      
-     
-- ⤴️ Advertisement
-  - I advertise "Skildpadde Squad"
-    - Their discord:
-      -discord.gg/skildpaddesquad
+   
