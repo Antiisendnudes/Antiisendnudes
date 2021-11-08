@@ -12,7 +12,7 @@
   - C++ <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
 
 ## 📫 How to reach me
-  - If you want to reach out to me, then you can contact me on discord - Antii#0004
+  - If you want to reach out to me, then you can contact me on discord - antii#1337
       
 ## 📙 Main Languages
 
