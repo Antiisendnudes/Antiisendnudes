@@ -5,7 +5,6 @@
     
 
 ## 🌱 I’m currently learning
-  - Lua <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_lua.svg" width="50" >
   
   - Python <img src="https://img.icons8.com/color/48/000000/python.png">
 
@@ -16,7 +15,7 @@
       
 ## 📙 Main Languages
 
-<img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/0c3822689a6e278609fc9888bf5d89f3bdf9e6ea/icons/file_type_lua.svg" width="50" >
+<img src="https://img.icons8.com/color/48/000000/python.png">
 
 ![GitHub issues](https://img.shields.io/github/issues/Antiisendnudes/Ciqer-MultiTool?logo=VisualStudioCode)
 
